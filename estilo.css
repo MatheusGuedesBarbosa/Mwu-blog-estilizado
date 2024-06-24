@@ -1,0 +1,91 @@
+@charset "UTF-8";
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    background-image: linear-gradient(to right, #45C4B0,#13678A );
+    background-color: white;
+}
+
+main{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #012030;
+}
+h1
+{
+    color: #13678A;
+    text-align: center;
+    text-shadow: 1px 1px 2px;
+}
+a{
+    text-decoration: none;
+}
+
+img{
+    border-radius: 4px;
+}
+p{
+    text-align: justify;
+    margin: 12px;
+}
+.Sobre-mim
+{
+    background-color: white ;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    width: 600px;
+   
+}
+.Discrição{
+    padding-bottom: 15px;
+}
+.Autor{
+    display: flex;
+   
+    text-align: left;
+    padding: 10px;
+}
+.foto-Autor{
+
+position: relative;
+right: 188px;
+
+}
+
+.Fale-comigo{
+    background-color: #FFFF;
+    width: 600px;
+    text-align: left;
+    margin: auto;
+    border-radius: 10px;
+}
+
+input{
+
+    border-radius: 5px;
+    height: 20px;
+    width: 18em;
+    outline: 0;
+    border: 1px solid;
+    
+}
+p{
+    text-align: center;
+}
+
+button{
+   
+    border: none;
+   border-radius: 10px;
+   height: 2em;
+   width: 6em;
+   background:linear-gradient(to right, #45C4B0,#13678A );
+   color: #FFFF;
+   margin: 5px;
+}
